@@ -38,7 +38,7 @@ const Post = () => {
         />
         <CardContent>
           <Typography variant='body2' color='text.secondary'>
-            A beautifull day in Canada !
+            A beautiful day in Canada !
           </Typography>
         </CardContent>
         <CardActions disableSpacing>
